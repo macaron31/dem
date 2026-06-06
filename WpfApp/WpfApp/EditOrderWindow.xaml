@@ -1,0 +1,23 @@
+﻿<Window x:Class="WpfApp.EditOrderWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Управление этапом закупки" Height="200" Width="300"
+        WindowStartupLocation="CenterOwner">
+
+    <StackPanel Margin="15">
+
+        <TextBlock Text="Текущий этап / Статус сделки:" 
+                   FontWeight="Bold" 
+                   Margin="0,0,0,5"/>
+        <TextBox x:Name="StatusBox" 
+                 Height="25" 
+                 Margin="0,0,0,20"
+                 VerticalContentAlignment="Center"/>
+
+        <Button Content="Обновить статус"
+                Height="35"
+                FontWeight="Bold"
+                Click="Save_Click"/>
+
+    </StackPanel>
+</Window>

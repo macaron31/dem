@@ -1,0 +1,31 @@
+﻿<Window x:Class="WpfApp.EditOrderItemWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Параметры позиции поставки" Height="250" Width="300"
+        WindowStartupLocation="CenterOwner">
+
+    <StackPanel Margin="15">
+
+        <TextBlock Text="Объем поставки (Количество):" 
+                   FontWeight="Bold" 
+                   Margin="0,0,0,5"/>
+        <TextBox x:Name="QtyBox" 
+                 Height="25" 
+                 Margin="0,0,0,15"
+                 VerticalContentAlignment="Center"/>
+
+        <TextBlock Text="Фиксированная цена за единицу (руб):" 
+                   FontWeight="Bold" 
+                   Margin="0,0,0,5"/>
+        <TextBox x:Name="PriceBox" 
+                 Height="25" 
+                 Margin="0,0,0,20"
+                 VerticalContentAlignment="Center"/>
+
+        <Button Content="Утвердить изменения"
+                Height="35"
+                FontWeight="Bold"
+                Click="Save_Click"/>
+
+    </StackPanel>
+</Window>

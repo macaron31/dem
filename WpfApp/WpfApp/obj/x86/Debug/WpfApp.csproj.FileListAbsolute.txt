@@ -1,0 +1,125 @@
+F:\WpfApp\WpfApp\bin\x86\Debug\e_sqlite3.dll
+F:\WpfApp\WpfApp\bin\x86\Debug\WpfApp.exe.config
+F:\WpfApp\WpfApp\bin\x86\Debug\WpfApp.exe
+F:\WpfApp\WpfApp\bin\x86\Debug\WpfApp.pdb
+F:\WpfApp\WpfApp\bin\x86\Debug\Microsoft.Data.Sqlite.dll
+F:\WpfApp\WpfApp\bin\x86\Debug\SQLitePCLRaw.batteries_v2.dll
+F:\WpfApp\WpfApp\bin\x86\Debug\SQLitePCLRaw.core.dll
+F:\WpfApp\WpfApp\bin\x86\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+F:\WpfApp\WpfApp\bin\x86\Debug\System.Buffers.dll
+F:\WpfApp\WpfApp\bin\x86\Debug\System.Data.SQLite.dll
+F:\WpfApp\WpfApp\bin\x86\Debug\System.Memory.dll
+F:\WpfApp\WpfApp\bin\x86\Debug\System.Numerics.Vectors.dll
+F:\WpfApp\WpfApp\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\WpfApp\WpfApp\bin\x86\Debug\Microsoft.Data.Sqlite.xml
+F:\WpfApp\WpfApp\bin\x86\Debug\System.Buffers.xml
+F:\WpfApp\WpfApp\bin\x86\Debug\System.Data.SQLite.xml
+F:\WpfApp\WpfApp\bin\x86\Debug\System.Memory.xml
+F:\WpfApp\WpfApp\bin\x86\Debug\System.Numerics.Vectors.xml
+F:\WpfApp\WpfApp\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\WpfApp\WpfApp\obj\x86\Debug\WpfApp.csproj.AssemblyReference.cache
+F:\WpfApp\WpfApp\obj\x86\Debug\WpfApp.csproj.SuggestedBindingRedirects.cache
+F:\WpfApp\WpfApp\obj\x86\Debug\WpfApp.exe.config
+F:\WpfApp\WpfApp\obj\x86\Debug\EditOrderItemWindow.baml
+F:\WpfApp\WpfApp\obj\x86\Debug\EditOrderWindow.baml
+F:\WpfApp\WpfApp\obj\x86\Debug\PartnerEditWindow.baml
+F:\WpfApp\WpfApp\obj\x86\Debug\ProductEditWindow.baml
+F:\WpfApp\WpfApp\obj\x86\Debug\EditOrderItemWindow.g.cs
+F:\WpfApp\WpfApp\obj\x86\Debug\EditOrderWindow.g.cs
+F:\WpfApp\WpfApp\obj\x86\Debug\MainWindow.g.cs
+F:\WpfApp\WpfApp\obj\x86\Debug\PartnerEditWindow.g.cs
+F:\WpfApp\WpfApp\obj\x86\Debug\ProductEditWindow.g.cs
+F:\WpfApp\WpfApp\obj\x86\Debug\App.g.cs
+F:\WpfApp\WpfApp\obj\x86\Debug\WpfApp_Content.g.cs
+F:\WpfApp\WpfApp\obj\x86\Debug\WpfApp_MarkupCompile.cache
+F:\WpfApp\WpfApp\obj\x86\Debug\WpfApp_MarkupCompile.lref
+F:\WpfApp\WpfApp\obj\x86\Debug\MainWindow.baml
+F:\WpfApp\WpfApp\obj\x86\Debug\WpfApp.g.resources
+F:\WpfApp\WpfApp\obj\x86\Debug\WpfApp.Properties.Resources.resources
+F:\WpfApp\WpfApp\obj\x86\Debug\WpfApp.csproj.GenerateResource.cache
+F:\WpfApp\WpfApp\obj\x86\Debug\WpfApp.csproj.CoreCompileInputs.cache
+F:\WpfApp\WpfApp\obj\x86\Debug\WpfApp.csproj.Up2Date
+F:\WpfApp\WpfApp\obj\x86\Debug\WpfApp.exe
+F:\WpfApp\WpfApp\obj\x86\Debug\WpfApp.pdb
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\bin\x86\Debug\e_sqlite3.dll
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\bin\x86\Debug\WpfApp.exe.config
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\bin\x86\Debug\WpfApp.exe
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\bin\x86\Debug\WpfApp.pdb
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\bin\x86\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\bin\x86\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\bin\x86\Debug\SQLitePCLRaw.core.dll
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\bin\x86\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\bin\x86\Debug\System.Buffers.dll
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\bin\x86\Debug\System.Data.SQLite.dll
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\bin\x86\Debug\System.Memory.dll
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\bin\x86\Debug\System.Numerics.Vectors.dll
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\bin\x86\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\bin\x86\Debug\System.Buffers.xml
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\bin\x86\Debug\System.Data.SQLite.xml
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\bin\x86\Debug\System.Memory.xml
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\bin\x86\Debug\System.Numerics.Vectors.xml
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\obj\x86\Debug\WpfApp.csproj.AssemblyReference.cache
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\obj\x86\Debug\EditOrderItemWindow.baml
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\obj\x86\Debug\EditOrderWindow.baml
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\obj\x86\Debug\PartnerEditWindow.baml
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\obj\x86\Debug\ProductEditWindow.baml
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\obj\x86\Debug\EditOrderItemWindow.g.cs
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\obj\x86\Debug\EditOrderWindow.g.cs
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\obj\x86\Debug\MainWindow.g.cs
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\obj\x86\Debug\PartnerEditWindow.g.cs
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\obj\x86\Debug\ProductEditWindow.g.cs
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\obj\x86\Debug\App.g.cs
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\obj\x86\Debug\WpfApp_Content.g.cs
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\obj\x86\Debug\WpfApp_MarkupCompile.cache
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\obj\x86\Debug\WpfApp_MarkupCompile.lref
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\obj\x86\Debug\MainWindow.baml
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\obj\x86\Debug\WpfApp.g.resources
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\obj\x86\Debug\WpfApp.Properties.Resources.resources
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\obj\x86\Debug\WpfApp.csproj.GenerateResource.cache
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\obj\x86\Debug\WpfApp.csproj.CoreCompileInputs.cache
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\obj\x86\Debug\WpfApp.csproj.Up2Date
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\obj\x86\Debug\WpfApp.exe
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\obj\x86\Debug\WpfApp.pdb
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\bin\x86\Debug\GeoAPI.dll
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\bin\x86\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\bin\x86\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\bin\x86\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\bin\x86\Debug\NetTopologySuite.dll
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\bin\x86\Debug\PdfSharp.BarCodes.dll
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\bin\x86\Debug\PdfSharp.Charting.dll
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\bin\x86\Debug\PdfSharp.Cryptography.dll
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\bin\x86\Debug\PdfSharp.dll
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\bin\x86\Debug\PdfSharp.Quality.dll
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\bin\x86\Debug\PdfSharp.Shared.dll
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\bin\x86\Debug\PdfSharp.Snippets.dll
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\bin\x86\Debug\PdfSharp.System.dll
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\bin\x86\Debug\PdfSharp.WPFonts.dll
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\bin\x86\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\bin\x86\Debug\GeoAPI.pdb
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\bin\x86\Debug\GeoAPI.xml
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\bin\x86\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\bin\x86\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\bin\x86\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\bin\x86\Debug\NetTopologySuite.xml
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\bin\x86\Debug\PdfSharp.pdb
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\bin\x86\Debug\PdfSharp.xml
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\bin\x86\Debug\PdfSharp.BarCodes.pdb
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\bin\x86\Debug\PdfSharp.BarCodes.xml
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\bin\x86\Debug\PdfSharp.Charting.pdb
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\bin\x86\Debug\PdfSharp.Charting.xml
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\bin\x86\Debug\PdfSharp.Cryptography.pdb
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\bin\x86\Debug\PdfSharp.Cryptography.xml
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\bin\x86\Debug\PdfSharp.Quality.pdb
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\bin\x86\Debug\PdfSharp.Quality.xml
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\bin\x86\Debug\PdfSharp.Shared.pdb
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\bin\x86\Debug\PdfSharp.Shared.xml
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\bin\x86\Debug\PdfSharp.Snippets.pdb
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\bin\x86\Debug\PdfSharp.System.pdb
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\bin\x86\Debug\PdfSharp.System.xml
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\bin\x86\Debug\PdfSharp.WPFonts.pdb
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\bin\x86\Debug\PdfSharp.WPFonts.xml
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\bin\x86\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\ditha\OneDrive\Рабочий стол\дэм\WpfApp\WpfApp\bin\x86\Debug\System.Threading.Tasks.Extensions.xml
